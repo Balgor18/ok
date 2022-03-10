@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd ./Downloads
+cd ../Downloads
 nbr=0
-while ((nbr != 10))
+while ((nbr != 300))
 	do
 		mkdir "FERME_TA_SESSION$nbr"
 		((nbr += 1))
