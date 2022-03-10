@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../Desktop
+cd $HOME/Desktop
 nbr=0
 while ((nbr != 300))
 	do
