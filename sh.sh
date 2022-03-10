@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../Downloads
+cd ../Desktop
 nbr=0
 while ((nbr != 300))
 	do
